@@ -1,0 +1,50 @@
+# ==============================
+# PYTHON
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# ==============================
+# JUPYTER NOTEBOOK
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# DATA FILES (RAW & PROCESSED)
+# ==============================
+data/raw_data/*
+
+# LOG FILES
+*.log
+
+# OS FILES
+.DS_Store
+Thumbs.db
+
+# VSCODE
+.vscode/
+
+
+# ENV VARIABLES
+.env
+
+# DATABASE FILES (optional)
+*.sqlite
+*.db
+
+# MODEL / OUTPUT FILES
+*.pkl
+*.joblib
+*.h5
+
+# TEMP FILES
+*.tmp
+*.bak
