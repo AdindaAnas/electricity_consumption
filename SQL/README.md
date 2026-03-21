@@ -1,7 +1,3 @@
-Siap, ini aku buatin **README.md lengkap + business questions khas data analyst** yang sudah disesuaikan dengan project kamu 👇
-
----
-
 # Electricity Consumption Analysis in Indonesia (2011–2030)
 
 ## Project Overview
